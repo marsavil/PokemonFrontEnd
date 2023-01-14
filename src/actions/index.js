@@ -11,7 +11,7 @@ import {
 } from "../actions_Type";
 
 //axios.defaults.baseURL = 'http://localhost:3001'
-axios.defaults.baseURL = 'marsavilPokemon.up.railway.app'
+axios.defaults.baseURL = 'https://marsavilPokemon.up.railway.app'
 
 
 export function getPokemons() {
